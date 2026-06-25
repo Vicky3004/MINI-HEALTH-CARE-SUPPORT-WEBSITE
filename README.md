@@ -22,7 +22,7 @@ careconnect/
 │       ├── Navbar.jsx           # Sticky navigation
 │       ├── Hero.jsx             # Hero section with stat cards
 │       ├── RegistrationSection.jsx  # 3-tab forms (Patient / Volunteer / Contact)
-│       ├── ChatAssistant.jsx    # Claude AI-powered chatbot
+│       ├── ChatAssistant.jsx    # Gemini AI-powered chatbot
 │       ├── HowItWorks.jsx       # 3-step process section
 │       └── Footer.jsx           # Footer
 ```
@@ -47,7 +47,7 @@ npm run preview
 
 - ✅ **3-Tab Registration Forms** — Patient support, Volunteer registration, Contact us
 - ✅ **Real-time form validation** with success banners
-- ✅ **CareBot AI Assistant** — Claude-powered FAQ chatbot with:
+- ✅ **CareBot AI Assistant** — Gemini-powered FAQ chatbot with:
     - Quick reply buttons
     - Typing indicators
     - Conversation history / context-aware responses
