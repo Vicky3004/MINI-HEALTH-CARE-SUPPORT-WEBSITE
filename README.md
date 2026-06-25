@@ -4,7 +4,7 @@ A React (Vite) healthcare NGO platform connecting patients with volunteers acros
 
 ## Tech Stack
 - **React 18** with Vite
-- **Claude AI API** (Anthropic) for the CareBot assistant
+- **Gemini API** for the CareBot assistant
 - Vanilla CSS with CSS variables (no Tailwind, no component libraries)
 
 ## Project Structure
